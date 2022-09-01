@@ -4,4 +4,4 @@ NPM     : 2106630063
 
 Kelas   : E
 
-Hobi    : Berolahraga
+Hobi    : Makan
